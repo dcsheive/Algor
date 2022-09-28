@@ -1,3 +1,16 @@
+// brute force
+/// visualize the problem as a tree
+/// establish base case
+/// call recursion
+/// test it
+//// each call should return a correct answer
+// memoize
+/// add memo object
+//// share to recursive call
+/// add new base case from memo 
+/// store retrun values
+
+
 //time: O(2^n)
 //space: O(n)
 
